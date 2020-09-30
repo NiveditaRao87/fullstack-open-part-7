@@ -1,0 +1,54 @@
+html,
+body,
+.App{
+  background-color: #856c8b;
+}
+
+h1 {
+  text-align: center;
+  margin: 5vh auto;
+}
+h2 {
+  margin-bottom: 10px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+.primary-btn {
+  background-color: #c4b5c4;
+  color: black;
+  margin-left: 5px;
+  border-radius: 15px;
+}
+
+.primary-btn:hover, .primary-btn:focus {
+  background-color: #856c8b;
+}
+
+.secondary-btn {
+  background-color: #774181;
+}
+
+.secondary-btn:hover, .secondary-btn:focus {
+  background-color:  #856c8b;
+}
+
+.container {
+  background-color: #c4b5c4;
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  padding-top: 5vh;
+  padding-bottom: 10vh;
+}
+
+.main-container {
+  padding-left: 10vw;
+}
+

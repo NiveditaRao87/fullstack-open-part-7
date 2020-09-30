@@ -1,0 +1,50 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "mutta minä en olen vielä tosi mukava sen kansaa ",
+      "id": 3
+    },
+    {
+      "content": "Minun tarvitse harjoitella paljon",
+      "id": 4
+    },
+    {
+      "content": "",
+      "id": 5
+    },
+    {
+      "content": "Haluaisin oppia kurssin suomeksi mutta oli tosi hidas ja en ymmärtänyt paljon",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Ihana",
+      "number": "050-9482283",
+      "id": 2
+    },
+    {
+      "name": "Hätä",
+      "number": "112",
+      "id": 3
+    },
+    {
+      "name": "prefix",
+      "number": "04-050-0457",
+      "id": 4
+    }
+  ]
+}

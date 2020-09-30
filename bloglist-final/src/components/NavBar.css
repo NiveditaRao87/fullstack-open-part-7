@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+    .navbar {
+        margin-left: 10vw;
+    }
+    .nav-item {
+        margin-right: 30px;
+        font-weight: bold;
+        font-size: calc(10px + 1.5vh)
+    }
+    .user-logout {
+        margin-left: 20vw;
+    }
+    
+}
+
